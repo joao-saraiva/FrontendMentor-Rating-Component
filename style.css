@@ -22,7 +22,7 @@ ul {
   background-color: #212832;
   border-radius: 30px;
   padding: 2.5rem;
-  width: 400px;
+  width: 360px;
 }
 
 .star_container {
@@ -82,6 +82,16 @@ ul {
 }
 
 .submit:hover {
+  background-color: hsl(0, 0%, 100%);
+  color: hsl(25, 97%, 53%);
+}
+
+.submit_link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.submit:hover .submit_link {
   background-color: hsl(0, 0%, 100%);
   color: hsl(25, 97%, 53%);
 }
