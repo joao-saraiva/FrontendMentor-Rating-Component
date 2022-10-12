@@ -20,6 +20,6 @@ function resetRatingElements() {
 function applyNewParamToCompletedRating(param) {
   linkToCompletedRating.setAttribute(
     "href",
-    `http://127.0.0.1:5500/completed-rating.html?q=${param}`
+    `http://127.0.0.1:5500/completed-rating.html?user_rate=${param}`
   );
 }

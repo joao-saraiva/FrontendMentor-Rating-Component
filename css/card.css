@@ -4,26 +4,3 @@
   padding: 2.5rem;
   width: 360px;
 }
-
-.illustration_container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 25px;
-}
-
-.rated_container {
-  text-align: center;
-  color: hsl(25, 97%, 53%);
-  margin-bottom: 25px;
-}
-
-.thank_you_text {
-  text-align: center;
-  color: white;
-  margin-bottom: 15px;
-}
-
-.thank_container p {
-  color: hsl(217, 12%, 63%);
-}
