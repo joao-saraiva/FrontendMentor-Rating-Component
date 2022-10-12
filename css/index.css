@@ -1,30 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Overpass&display=swap");
-
-body {
-  font-family: "Overpass";
-  background-color: hsl(216, 12%, 8%);
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-ul {
-  list-style-type: none;
-}
-
-* {
-  margin: 0;
-  padding: 0;
-}
-
-.card {
-  background-color: #212832;
-  border-radius: 30px;
-  padding: 2.5rem;
-  width: 360px;
-}
-
 .star_container {
   background: #262f38;
   width: 40px;
